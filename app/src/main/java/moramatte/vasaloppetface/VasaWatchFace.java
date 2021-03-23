@@ -403,7 +403,7 @@ public class VasaWatchFace extends CanvasWatchFaceService {
 
             Calendar currentTime = Calendar.getInstance();
 
-            String dt = "2019-03-03 08:00";  // Start date
+            String dt = "2022-03-06 08:00";  // Start date
             SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd hh:mm");
             Calendar c = Calendar.getInstance();
             try {
